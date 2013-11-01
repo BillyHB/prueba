@@ -2,4 +2,4 @@ BillyHB: archivo con opciones de proyecto.
 
 B9lly: modificacion de linea ***.
 
-B9lly: 2da. modificacion de linea ***.
+B9lly: 2da. modificacion de linea *.
